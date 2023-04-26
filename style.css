@@ -159,8 +159,8 @@ section img
 .main-container
 {
 	position: absolute;
-	left: 15vw;
-	top: 15vw;
+	 left: 161px;
+    top: 159px;
 	z-index: 10;
 }
 
